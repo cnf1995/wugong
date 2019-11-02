@@ -10,7 +10,8 @@ public class DuGuJiuJian {
 		System.out.println("什么情况！！！");
 		System.out.println("还不信了");
 		System.out.println("希望可以");
-		System.out.println("终于好了，谢谢！");
+		System.out.println("终于好了，谢谢~");
+		
 	}
 
 }
