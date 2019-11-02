@@ -8,6 +8,7 @@ public class DuGuJiuJian {
 		System.out.println("22333");
 		System.out.println("233333");
 		System.out.println("无语了");
+		System.out.println("无语了");
 
 	}
 
