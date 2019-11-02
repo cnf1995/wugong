@@ -7,8 +7,7 @@ public class DuGuJiuJian {
 		System.out.println("111111");
 		System.out.println("22333");
 		System.out.println("233333");
-		System.out.println("444444");
-		System.out.println("555555");
+		System.out.println("什么情况！！！");
 	}
 
 }
