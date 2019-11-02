@@ -14,6 +14,10 @@ public class DuGuJiuJian {
 		System.out.println("还不信了");
 		System.out.println("希望可以");
 		System.out.println("why");
+		System.out.println("终于好了，谢谢~");
+		System.out.println("最后一次不行撤了111");
+		
+
 	}
 
 }
