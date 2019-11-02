@@ -7,12 +7,19 @@ public class DuGuJiuJian {
 		System.out.println("111111");
 		System.out.println("22333");
 		System.out.println("233333");
+		System.out.println("无语了");
+		System.out.println("无语了");
+		System.out.println("233333");
 		System.out.println("什么情况！！！");
 		System.out.println("还不信了");
 		System.out.println("希望可以");
+<<<<<<< HEAD
 		System.out.println("终于好了，谢谢~");
 		System.out.println("最后一次不行撤了111");
 		
+=======
+		System.out.println("why");
+>>>>>>> branch 'master' of https://github.com/cnf1995/wugong.git
 	}
 
 }
